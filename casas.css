@@ -1,0 +1,38 @@
+ul{
+    margin-left: 250px;
+}
+nav{
+    background-color: pink;
+    padding-top: 20px;
+    padding-bottom: 20px
+
+}
+li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 100px;
+}
+
+body{
+    background-image: url(https://www.basearchitecture.co.uk/wp-content/uploads/2023/11/Screenshot-2023-11-07-123236.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed
+}
+
+h1{
+    color: pink;
+}
+
+img{
+    width: 200px;
+    margin-left: 850px;
+    margin-top: 200px;
+}
+
+p{
+    color: greenyellow
+}
+label {
+    color: white;    
+}
